@@ -14,5 +14,4 @@ Welcome to Manim tutorials!
 
 ## Chapter 4
 ### Chapter 4 Exercise
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-[**Chapter_4_Exercise.ipynb**](https://colab.research.google.com/chuanyewest/github/chuanyewest/Manim/blob/main/Chapter4/Chapter_4_Exercise.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chuanyewest/Manim/blob/main/Chapter4/Chapter_4_Exercise.ipynb)  
