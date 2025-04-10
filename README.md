@@ -11,3 +11,6 @@ Welcome to Manim tutorials!
 ## Chapter 2
 ### Chapter 2 2D Animations
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chuanyewest/Manim/blob/main/Chapter%202/Chapter%202%202D%20animations.ipynb)
+
+## Chapter 4
+### Chapter 4 Exercise
