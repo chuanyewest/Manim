@@ -14,7 +14,7 @@ Welcome to Manim tutorials!
 
 ## Chapter 3
 ### Chapter 3 Updaters and Valuetrackers
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chuanyewest/Manim/blob/main/Chapter%202/Chapter%202%202D%20animations.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/chuanyewest/Manim/blob/main/Chapter_3_Updaters_and_ValueTrackers.ipynb)
 
 ## Chapter 4
 ### Chapter 4 Exercise
